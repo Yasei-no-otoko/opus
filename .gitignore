@@ -83,3 +83,10 @@ silk/tests/test_unit_LPC_inv_pred_gain
 src/Debug
 src/Release
 src/x64
+
+win32/VS2015/.vs
+win32/VS2015/Win32
+win32/VS2015/_ReSharper.Caches
+Win32/VS2015/x64/UWP
+*.ncrunchsolution
+*.ncrunchsolution.user
